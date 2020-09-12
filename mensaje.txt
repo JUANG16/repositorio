@@ -1,3 +1,5 @@
 Mi primer archivo greado en mi primer repositorio en Git ...
 Otra información adicional agregada en el primer mensaje jajjaa
+Se agrega una información adicional al archivo. para la revision..
+
 
